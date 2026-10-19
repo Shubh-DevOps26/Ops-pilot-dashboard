@@ -1,0 +1,10 @@
+{
+  "name": "opspilot-cloud-operations",
+  "version": "1.0.0",
+  "description": "A polished DevOps CI/CD demo dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  }
+}
